@@ -1,0 +1,20 @@
+DOLCE CASA MARTINEZ — NUEVA VERSIÓN
+
+Para publicar esta versión en Netlify:
+1. Descomprime este archivo ZIP en tu ordenador.
+2. Entra en Netlify y abre tu proyecto dolce-casa-martinez.
+3. En la zona de publicación manual, sube la carpeta extraída que contiene index.html y la carpeta images.
+4. Espera a que termine y comprueba https://dolce-casa-martinez.netlify.app
+
+Incluye:
+- Diseño inspirado en la maqueta aprobada (verde oscuro, crema, dorado, portada panorámica).
+- Selector de idioma español/italiano/inglés para textos de la web.
+- Galería con ampliación al pulsar.
+- Características informativas de las habitaciones y zonas compartidas.
+- Mapa, dirección y contacto por WhatsApp.
+
+Importante:
+- Las fotos interiores incluidas son las fotos proporcionadas del alojamiento; revisa las etiquetas y cambia las imágenes si alguna no corresponde a esa estancia.
+- No se publican precios ni disponibilidad y el formulario NO confirma reservas: prepara un mensaje de WhatsApp.
+- La foto panorámica de Roma es una imagen generada para la maqueta.
+- La edición con panel de administración no se activa automáticamente con una subida manual; requiere conectar el proyecto a un repositorio y configurar el CMS.
